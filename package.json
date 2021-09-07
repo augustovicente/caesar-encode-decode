@@ -1,0 +1,22 @@
+{
+    "name": "cesar-encode-decode",
+    "version": "1.0.0",
+    "description": "Criptografia de César por interface de linha de comando",
+    "main": "menu.mjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/augustovicente/cesar-encode-decode.git"
+    },
+    "author": "@augustovicente",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/augustovicente/cesar-encode-decode/issues"
+    },
+    "homepage": "https://github.com/augustovicente/cesar-encode-decode#readme",
+    "dependencies": {
+        "readline": "^1.3.0"
+    }
+}

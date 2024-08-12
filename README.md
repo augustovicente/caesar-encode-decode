@@ -1,9 +1,8 @@
 # cesar-encode-decode
-Criptografia de cesar
+Caesar Cipher
 
-Sistema que criptografa e descriptografa palavras segundo o algoritmo de César.
-Só é permitido caracteres do alfabeto, sem pontuações nem acentuações.
-OBS: não é relevado caracteres maiúsculos.
+This system encrypts and decrypts words using the Caesar cipher algorithm. It only allows alphabetic characters, with no punctuation or accents.
+Note: Uppercase characters are not differentiated from lowercase.
 
 Run script:
 
